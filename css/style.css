@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Eczar&display=swap");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body {
+	font-family: 'Ec zar', serif;
+	font-size: 15px
+}
+
+h1, h2, h3{
+	font-family: 'Cinzel', serif;
+	font-weight: bold;
+	font-size: 25px;
+} 
+
+.wholepage{
+	background-color: #283148;
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+}
+
+ul li{
+	display : inline;
+	padding: 10px;
+}
+
+.button-yellow:hover{
+	text-transform: uppercase;
+}
+
+p{
+	width: 800px;
+	margin-left: 30px;
+	margin-right: 30px
+}

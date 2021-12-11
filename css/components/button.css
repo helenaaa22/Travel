@@ -1,0 +1,20 @@
+
+.button-gold{
+	background-color: #EBA83A;
+	padding: 15px;
+	border-radius:4px;
+	color: #2F5D62;
+	font-weight: bold
+	margin-top: 100px;
+	display: flex;
+}
+
+.button-yellow{
+	background-color: #EBA83A;
+	padding: 15px;
+	border-radius:20px;
+	color: #2F5D62;
+	font-weight: bold;
+	margin: 15px;
+	margin-top: 300px;
+}
